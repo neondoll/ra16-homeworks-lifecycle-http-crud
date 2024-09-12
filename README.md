@@ -1,6 +1,6 @@
 # CRUD
 
-[![Build status](https://ci.appveyor.com/api/projects/status/knu8vdv6jrfcmecd?svg=true)](https://ci.appveyor.com/project/neondoll/ra16-homeworks-lifecycle-http-watches)
+![Build status](https://github.com/neondoll/ra16-homeworks-lifecycle-http-crud/actions/workflows/static.yml/badge.svg)
 
 [Результат (Сайт)](https://neondoll.github.io/ra16-homeworks-lifecycle-http-crud)
 
